@@ -4,17 +4,7 @@ Spicetify extension which allows you to copy text (song name, artist name, album
 
 ## Preview
 
-<details>
-  <summary><b>Before</b></summary>
-  <br>
-  <img src="https://raw.githubusercontent.com/ledoxmedox/spicetify-extensions/main/Before.png"/>
-</details>
-
-<details>
-  <summary><b>After</b></summary>
-  <br>
-  <img src="https://raw.githubusercontent.com/ledoxmedox/spicetify-extensions/main/After.png"/>
-</details>
+<img src="https://raw.githubusercontent.com/ledoxmedox/spicetify-extensions/main/After.png"/>
 
 ## Manual Installation
 
